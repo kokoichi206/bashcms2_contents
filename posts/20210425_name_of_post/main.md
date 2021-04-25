@@ -17,8 +17,14 @@ Copyright: (C) 2021 Kokoichi
 
 ![](S__2777092.jpg)
 
-Write contents here
 
+## 写真の埋め込み
+
+結構工夫をして埋め込む必要があった。
+
+最近ではTwitterやinstegramから埋め込み用HTML片を用意して貼った方が良さげ
+
+<blockquote class="twitter-tweet"><p lang="und" dir="ltr">hoo <a href="https://t.co/VVg1u2vWmh">pic.twitter.com/VVg1u2vWmh</a></p>&mdash; ここいち (@1akC74V9br5ddNO) <a href="https://twitter.com/1akC74V9br5ddNO/status/1386244685073588228?ref_src=twsrc%5Etfw">April 25, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ## ドキュメント
 [みなみ.pdf](minami.pdf)  
