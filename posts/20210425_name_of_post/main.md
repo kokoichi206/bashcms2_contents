@@ -13,7 +13,7 @@ Copyright: (C) 2021 Kokoichi
 
 ![星野みなみ](./minami.jpg)
 
-## <span id="white">らーめん</span>
+## <span id="lamen">らーめん</span>
 
 ![](S__2777092.jpg)
 
@@ -21,5 +21,5 @@ Write contents here
 
 
 ## ドキュメント
-[みなみ.pdf](minami.pdf)
+[みなみ.pdf](minami.pdf)  
 [wikipedia](https://ja.wikipedia.org/wiki/%E6%98%9F%E9%87%8E%E3%81%BF%E3%81%AA%E3%81%BF[wikipedia])
