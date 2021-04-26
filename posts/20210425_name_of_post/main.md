@@ -30,6 +30,7 @@ Copyright: (C) 2021 Kokoichi
 
 時間変わらんなぁ
 うーん
+うーん
 
 ## ドキュメント
 [みなみ.pdf](minami.pdf)  
