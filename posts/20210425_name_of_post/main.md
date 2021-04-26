@@ -29,6 +29,7 @@ Copyright: (C) 2021 Kokoichi
 ## 疑問
 
 時間変わらんなぁ
+うーん
 
 ## ドキュメント
 [みなみ.pdf](minami.pdf)  
